@@ -12,7 +12,7 @@ public class Main {
 
         System.out.println("Seznam akreditovaných prodejců biomrkve:");
         System.out.println("1. " + prodejce1.getJmeno() + "; narozen " + prodejce1.getDatumNarozeni());
-        System.out.println("2. " + prodejce2.getJmeno() + "; naorzen " + prodejce2.getDatumNarozeni());
+        System.out.println("2. " + prodejce2.getJmeno() + "; narozen " + prodejce2.getDatumNarozeni());
 
     }
 }
